@@ -1,5 +1,3 @@
-# nextjs_proj1
-
 ![blog-template-using-nextjs-typescript-tailwindcss](/public/images/og-image.jpg)
 
 # Starter blog template using Nextjs, Typescript and Tailwind CSS.
